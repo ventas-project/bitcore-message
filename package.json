@@ -23,7 +23,7 @@
         "url": "https://github.com/bitpay/bitcore-message.git"
     },
     "dependencies": {
-        "bitcore-lib": "^0.13.7"
+        "bitcore-lib": "https://github.com/ventas-project/bitcore-lib.git"
     },
     "devDependencies": {
         "bitcore-build": "http://git.etra.kr/bitpay/bitcore-build/archive/master.tar.gz",
